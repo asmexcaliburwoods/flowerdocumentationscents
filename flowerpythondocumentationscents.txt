@@ -1,0 +1,6 @@
+bom
+
+how to upload a pypi package dig here: https://test.pypi.org/project/example-package-flower/0.0.1/
+
+eom
+
